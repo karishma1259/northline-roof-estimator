@@ -58,9 +58,9 @@ Open `http://localhost:5173` for the estimator, `http://localhost:5173/admin` fo
 
 Whatever you set `OWNER_USERNAME` / `OWNER_PASSWORD` to in `backend/.env`. For the deployed demo:
 
-- **URL:** _(fill in after deploying — see below)_
-- **Username:** _(fill in)_
-- **Password:** _(fill in)_
+- **URL:** https://northline-roof-estimator-8c1z.vercel.app/admin
+- **Username:** dale
+- **Password:** Kinnua@123
 
 ## Environment variables
 
